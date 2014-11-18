@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Personnages\Joueur\PlayerControl.js">
+    <Files>
+      <File FileName="Assets\Personnages\Ennemis\Sentinelles\SentinelleIA2.js" Line="18" Column="29" />
+      <File FileName="Assets\Personnages\Ennemis\Sentinelles\SentinelleIA.js" Line="22" Column="31" />
+      <File FileName="Assets\Personnages\Ennemis\Sentinelles\SentinelleMoveIA.js" Line="95" Column="33" />
+      <File FileName="Assets\Personnages\Joueur\PlayerControl.js" Line="190" Column="24" />
+      <File FileName="Assets\Personnages\Ennemis\Squelettes\SkeletonWarriorIA.js" Line="7" Column="28" />
+      <File FileName="Assets\Personnages\Ennemis\Sentinelles\Fleche.js" Line="16" Column="20" />
+      <File FileName="Assets\Personnages\Ennemis\Squelettes\SkeletonMageIA.js" Line="71" Column="17" />
+      <File FileName="Assets\Personnages\Ennemis\Squelettes\FireBall.js" Line="25" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

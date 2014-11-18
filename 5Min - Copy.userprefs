@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Personnages\Ennemis\Boss\FireBallBoss.js">
+    <Files>
+      <File FileName="Assets\Personnages\Joueur\PlayerControl.js" Line="13" Column="26" />
+      <File FileName="Assets\Personnages\Ennemis\Boss\BossIA.js" Line="11" Column="26" />
+      <File FileName="Assets\Personnages\Ennemis\Boss\FireBallBoss.js" Line="9" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

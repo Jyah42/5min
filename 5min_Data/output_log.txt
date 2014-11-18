@@ -1,0 +1,27 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4448]
+    Renderer: NVIDIA GeForce GTX 880M
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Windows\Desktop\5min\5min_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Windows\Desktop\5min\5min_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Windows\Desktop\5min\5min_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Windows\Desktop\5min\5min_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Windows\Desktop\5min\5min_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Windows\Desktop\5min\5min_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\Windows\Desktop\5min\5min_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Windows\Desktop\5min\5min_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 1.649028 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 9.053831 ms (FindLiveObjects: 0.022237 ms CreateObjectMapping: 0.009408 ms MarkObjects: 0.149250 ms  DeleteObjects: 8.123259 ms)
+
